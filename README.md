@@ -1,1 +1,3 @@
 # unbound-hosts
+
+A script to download hosts from StevenBlock and convert them into a format that unbound can use to filter traffic...
